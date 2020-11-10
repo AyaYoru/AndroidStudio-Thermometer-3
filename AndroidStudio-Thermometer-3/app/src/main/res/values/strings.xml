@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">android_num3_thermometer</string>
+    <string name="Title">溫 度 換 算</string>
+    <string name="tmp_tmpc">輸入溫度</string>
+    <string name="tmp_tmpf">轉換溫度</string>
+    <string name="tmp_btn">轉換單位(°F)</string>
+    <string name="tmp_btn2">轉換單位(°C)</string>
+</resources>
